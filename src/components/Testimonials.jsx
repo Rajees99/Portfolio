@@ -53,7 +53,7 @@ const Testimonials = () => {
             <div className='max-w-6xl mx-auto py-10 px-5'>
                 <Swiper
                     style={{
-                        "--swiper-pagination-color": "#EF4444",
+                        "--swiper-pagination-color": "#87CEEB",
                         "--swiper-pagination-bullet-inactive-color": "#999999",
                         "--swiper-pagination-bullet-inactive-opacity": "1",
                         "--swiper-pagination-bullet-size": "10px",
