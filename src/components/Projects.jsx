@@ -13,14 +13,6 @@ const Projects = () => {
             live: "https://rajees-tourism.netlify.app/",
             github: "https://github.com/Rajees99/Around-Lanka-Tourism"
         },
-        {
-            id: 2, 
-            title: 'Spicy Bites',
-            desc: 'The team at Webelite Builders exceeded our expectations with their digital marketing expertise. Highly recommend!',
-            image: SpicyBites,
-            live: "https://spicybites.netlify.app/",
-            github: "https://github.com/rohitsingh93300/YtSpicyBites"
-        },
     ];
 
     return (
